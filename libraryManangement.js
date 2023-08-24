@@ -4,11 +4,7 @@
         this.author = author;
         this.isAvailable = true;
       }
-    // var Book = {
-    //   title = "title",
-    //   author = "author",
-    //   isAvailable = "true",
-    // }
+   
 
 
     const library = [];
